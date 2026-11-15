@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "MIX MIXER PANEL V3")(type KiCad)(uri "$(KIPRJMOD)/MIX MIXER PANEL V3.pretty")(options "")(descr ""))
+)
